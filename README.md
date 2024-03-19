@@ -1,4 +1,4 @@
-# FansCRM test task
+# FansCRM Server Test Task
 
 ## System Requirements
 
@@ -13,7 +13,7 @@ Before you begin, ensure that your system meets the following requirements:
 
 ## Getting Started
 
-Follow these steps to get started with your Traefik Home Server:
+Follow these steps to get started:
 
 
 1. **Clone Repository:** Clone this repository to your local machine.
